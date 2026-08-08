@@ -1,5 +1,8 @@
 
 # 🔐 Password Generator
+## 📸 Screenshot
+
+Add your project screenshot here.
 
 A responsive password generator built using HTML, CSS, and JavaScript.
 
@@ -38,9 +41,7 @@ password-generator/
 2. Open the project folder
 3. Open `index.html` in your browser
 
-## 📸 Screenshot
 
-Add your project screenshot here.
 
 ## 🔮 Future Improvements
 
@@ -48,3 +49,15 @@ Add your project screenshot here.
 - Dark mode
 - Password history
 - Password visibility toggle
+
+
+## 📬 Contact
+
+**Pratham Laxman Patil**
+- Phone no: +917385202939
+- Email: prathamlpatil837@gmail.com   
+- Location: Pune,Maharashtra,India 
+- GitHub: https://github.com/PrathamPatil2002
+- LinkedIn: https://www.linkedin.com/in/pratham-patil-3a8ba9282/
+
+⭐ If you like this project, don't forget to star the repository!
