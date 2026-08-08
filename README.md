@@ -6,7 +6,7 @@
 A responsive password generator built using HTML, CSS, and JavaScript.
 
 
-## Live Demo 🚀
+## 🚀 Live Demo 
 
 https://prathampatil2002.github.io/Password-Generator/
 
