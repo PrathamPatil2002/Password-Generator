@@ -43,7 +43,7 @@ password-generator/
 
 DEMO
 
-https://PrathamPatil2002.github.io/password-generator/
+https://prathampatil2002.github.io/Password-Generator/
 
 ## 🔮 Future Improvements
 
