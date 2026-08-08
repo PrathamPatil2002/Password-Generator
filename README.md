@@ -1,8 +1,7 @@
 
 # 🔐 Password Generator
-## 📸 Screenshot
+<img width="1347" height="648" alt="password generator" src="https://github.com/user-attachments/assets/13dede1d-5dcb-4ca9-8bfa-77624f5ef412" />
 
-Add your project screenshot here.
 
 A responsive password generator built using HTML, CSS, and JavaScript.
 
