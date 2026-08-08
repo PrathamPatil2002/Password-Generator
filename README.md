@@ -5,6 +5,12 @@
 
 A responsive password generator built using HTML, CSS, and JavaScript.
 
+
+## Live Demo 🚀
+
+https://prathampatil2002.github.io/Password-Generator/
+
+
 ## 🚀 Features
 
 - Generate random passwords
@@ -33,11 +39,6 @@ password-generator/
 ├── style.css
 ├── script.js
 └── README.md
-
-
-## Live Demo 🚀
-
-https://prathampatil2002.github.io/Password-Generator/
 
 
 ## 📬 Contact
