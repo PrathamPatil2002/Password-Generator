@@ -45,13 +45,6 @@ password-generator/
 
 https://prathampatil2002.github.io/Password-Generator/
 
-## 🔮 Future Improvements
-
-- Password strength meter
-- Dark mode
-- Password history
-- Password visibility toggle
-
 
 ## 📬 Contact
 
