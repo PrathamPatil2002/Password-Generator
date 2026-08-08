@@ -41,6 +41,9 @@ password-generator/
 3. Open `index.html` in your browser
 
 
+DEMO
+
+https://PrathamPatil2002.github.io/password-generator/
 
 ## 🔮 Future Improvements
 
